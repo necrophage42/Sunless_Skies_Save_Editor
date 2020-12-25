@@ -182,6 +182,10 @@ PORTS = {
             '3ea179aa-2a9c-47c5-9dc3-20fee32fc228': {
                 'DisplayName': 'Wit & Vinegar Lumber Co.',
                 'InternalName': 'Wit & Vinegar Lumber Co.'
+            },
+            '289aa8ac-754d-4610-9639-cc888c3f6eac': {
+                'DisplayName': 'The Ministries',
+                'InternalName': 'Ministries',
             }
         }
     }
